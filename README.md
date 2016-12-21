@@ -24,7 +24,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 # Clone this repository
 git clone https://github.com/owain-stratton/Electron_DrawApp.git
 # Go into the repository
-cd Electron_DrawPro
+cd Electron_DrawApp
 # Install dependencies
 npm install
 # Run the app
